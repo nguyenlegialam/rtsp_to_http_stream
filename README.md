@@ -8,7 +8,7 @@ Yêu cầu:
   - Máy tính được đặt chung mạng LAN hoặc VPN đến mạng LAN đó  
   - Cài đặt python >3.6 và các thư viện bên ngoài trong requirement  
   
-# Cách chạy server:  
+# Thêm camera vào server:  
   
 Bước 1: Nhập địa chỉ IP rtsp cho từng camera  
 ![image](https://github.com/nguyenlegialam/rtsp_to_http_stream/assets/116132135/56dac0ab-8161-4014-ac7c-6327302d5045)
