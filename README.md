@@ -7,6 +7,8 @@ Bước 1: Nhập địa chỉ IP rtsp cho từng camera
 ![image](https://github.com/nguyenlegialam/rtsp_to_http_stream/assets/116132135/56dac0ab-8161-4014-ac7c-6327302d5045)
 
 Bước 2: Tạo thêm manager
+
+
 ![image](https://github.com/nguyenlegialam/rtsp_to_http_stream/assets/116132135/ea482c1c-9809-4c1f-802f-cb847ffe88da)
 
 Bước 3: Tạo function cho các camera
