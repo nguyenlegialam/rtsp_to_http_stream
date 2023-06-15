@@ -1,0 +1,6 @@
+imutils
+fastapi
+threading
+time
+cv2
+uvicorn
