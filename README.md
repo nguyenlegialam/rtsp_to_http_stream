@@ -19,10 +19,10 @@ Bước 2: Tạo số lượng manager trùng với số lượng camera
 Bước 3: Tạo function cho từng camera  
 ![image](https://github.com/nguyenlegialam/rtsp_to_http_stream/assets/116132135/4db478e5-3890-4431-bf00-5ee94e001bd7)
 
-Bước 4: Thêm manager vào function stream  
+Bước 4: Thêm từng manager vào function stream  
 ![image](https://github.com/nguyenlegialam/rtsp_to_http_stream/assets/116132135/41b6cfae-fd32-41b2-883c-afe2590ff709)
 
-Bước 5: Tạo url  
+Bước 5: Tạo url cho từng camera    
 ![image](https://github.com/nguyenlegialam/rtsp_to_http_stream/assets/116132135/5f273137-d5b3-4af9-8b9a-1ef9aa4cc9f9)
 
 Bước 6: Thêm manager và function vào keepalive  
