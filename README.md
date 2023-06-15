@@ -27,4 +27,12 @@ Bước 5: Tạo url cho từng camera
 
 Bước 6: Thêm manager và function vào keepalive  
 ![image](https://github.com/nguyenlegialam/rtsp_to_http_stream/assets/116132135/f6c6b24d-f7ae-4f82-a819-d8b1e60f2e35)
-
+  
+# Chạy server:
+  
+Bước 1: Thực hiện khâu thêm camera như hướng dẫn trên  
+  
+Bước 2: run rtsp_to_http.py
+  
+Bước 3: nhập localhost:6064/ vào url của trình duyệt để bắt đầu keepalive
+Sau bước này các camera đều đã được stream qua giao thức http qua các url được đặt trong code  
