@@ -34,5 +34,5 @@ Bước 1: Thực hiện khâu thêm camera như hướng dẫn trên
   
 Bước 2: run rtsp_to_http.py
   
-Bước 3: nhập localhost:6064/ vào url của trình duyệt để bắt đầu keepalive
+Bước 3: nhập localhost:6064/ vào url của trình duyệt để bắt đầu keepalive  
 Sau bước này các camera đều đã được stream qua giao thức http qua các url được đặt trong code  
