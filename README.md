@@ -4,7 +4,7 @@ Giải thích: Phương pháp này sử dụng cách cắt từng ảnh của lu
 Điểm yếu: rất hao tốn tài nguyên server do phải xử lí phát luồng stream của nhiều camera, sử dụng như 1 biện pháp tạm thời hoặc nhà có ít camera
   
 Yêu cầu:  
-  - Link Rtsp của camera  
+  - Link Rtsp của tất cả các camera trong nhà  
   - Máy tính được đặt chung mạng LAN hoặc VPN đến mạng LAN đó  
   - Cài đặt python >3.6 và các thư viện bên ngoài trong requirement  
   
