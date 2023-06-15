@@ -1,7 +1,9 @@
 # Chuyển đổi rtsp stream thành http bằng cách cắt từng ảnh và stream lên web
 
 Giải thích: Phương pháp này sử dụng cách cắt từng ảnh của luồng RTSP (bằng opencv) sau đó tạo luồng stream bằng và stream bằng Process và Threading (để tạo luồng cho nhiều camera)  
-Điểm yếu: rất hao tốn tài nguyên server do phải xử lí phát luồng stream của nhiều camera, sử dụng như 1 biện pháp tạm thời hoặc nhà có ít camera
+Điểm yếu:  
+  -  Rất hao tốn tài nguyên server do phải xử lí phát luồng stream của nhiều camera, sử dụng như 1 biện pháp tạm thời hoặc nhà có ít camera
+  -  Phải thêm camera thủ công trong code, các bước thêm camera được hướng dẫn phía dưới  
   
 Yêu cầu:  
   - Link Rtsp của tất cả các camera trong nhà  
