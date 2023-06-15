@@ -1,5 +1,7 @@
 # Chuyển đổi rtsp stream thành http bằng cách cắt từng ảnh và stream lên web
-
+  
+Ngôn ngữ: Python  
+  
 Giải thích: Phương pháp này sử dụng cách cắt từng ảnh của luồng RTSP (bằng opencv) sau đó tạo luồng stream bằng và stream bằng Process và Threading (để tạo luồng cho nhiều camera)  
   
 Điểm yếu:  
